@@ -1,0 +1,5 @@
+1. The population's top value exceeds that of the sample, and the population average is also higher than the sample average.
+
+2. In the context of BMI at the 98th percentile, the population percentage surpasses the sample percentage.
+
+3. When examining the average and standard deviation of the entire population in comparison to the bootstrap sample, there's a minor difference. Moreover, there's a slight variance in percentile values between the population and the bootstrap sample.
